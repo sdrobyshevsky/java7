@@ -23,8 +23,8 @@ public class BullsAndCowsGame {
         System.out.println("Правила игры:");
         System.out.println("Компьютер загадывает 4-значное число, в котором цифры не повторяются.");
         System.out.println("Ваша задача - угадать это число.");
-        System.out.println("Если угадана только цифра, то это bull.");
-        System.out.println("Если угадана цифра и ее позиция, то это cow."); 
+        System.out.println("Если угадана только цифра, то это корова.");
+        System.out.println("Если угадана цифра и ее позиция, то это бык."); 
         System.out.println("Удачи!");
 
         int attempts = 0;
